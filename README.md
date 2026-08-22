@@ -6,5 +6,3 @@ r
 qwe
 qsa
 wm
-
-qw
