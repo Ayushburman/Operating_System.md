@@ -1,7 +1,6 @@
 # Operating_System.md
 q
-r
-s
+
 r
 r
 qwe
