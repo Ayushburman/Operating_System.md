@@ -10,6 +10,5 @@ wm
 
 qw
 q
-q
 
 w
