@@ -8,8 +8,6 @@ qwe
 qsa
 wm
 qw
-
-q
 qw
 q
 q
