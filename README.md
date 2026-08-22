@@ -8,4 +8,3 @@ qsa
 wm
 
 qw
-q
