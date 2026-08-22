@@ -4,4 +4,3 @@ q
 r
 r
 qwe
-qsa
