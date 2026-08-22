@@ -12,7 +12,6 @@ qw
 q
 q
 q
-p
 q
 w
 q
