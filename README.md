@@ -7,7 +7,6 @@ r
 qwe
 qsa
 wm
-as
 qw
 
 q
