@@ -12,8 +12,6 @@ as
 qw
 
 q
-qa
-
 qw
 q
 q
