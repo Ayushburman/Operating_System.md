@@ -3,7 +3,6 @@ q
 r
 s
 r
-w
 r
 qwe
 qsa
