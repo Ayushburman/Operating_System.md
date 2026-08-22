@@ -5,4 +5,3 @@ r
 r
 qwe
 qsa
-wm
