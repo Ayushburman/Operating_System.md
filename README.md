@@ -12,9 +12,7 @@ qw
 q
 q
 q
-q
 w
 q
 w
 y
-i
